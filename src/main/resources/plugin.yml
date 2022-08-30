@@ -1,0 +1,7 @@
+name: MGZBedwars
+version: '${project.version}'
+main: net.thanhmgz.mgzbedwars.MGZBedwars
+authors: [ ThanhMGZ ]
+commands:
+  testcommand:
+    usage: /<command>
